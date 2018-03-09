@@ -3,7 +3,7 @@
 Plugin Name: Minimalist Google Analytics
 Description: Minimalist Google Analytics plugin.
 Author: Christopher Lehmann
-Version: 1.0
+Version: 1.1
 */
 
 function min_ga() { ?>
